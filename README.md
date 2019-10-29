@@ -69,12 +69,16 @@ Go [here](./input/p2/results) for more intermediate results for all image pairs
     - [Results for Input set 2 - more clicks](./input/p4/results)
     
 ###### Inputs
-
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/1.jpg" alt="1.jpg" width="416" height="312" /> 1.jpg
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/2.jpg" alt="2.jpg" width="416" height="312" /> 2.jpg 
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/3.jpg" alt="3.jpg" width="416" height="312" /> 3.jpg  
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/4.jpg" alt="4.jpg" width="416" height="312" /> 4.jpg
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/5.jpg" alt="5.jpg" width="416" height="312" /> 5.jpg
+- 1.jpg
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/1.jpg" alt="1.jpg" width="416" height="312" />
+- 2.jpg
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/2.jpg" alt="2.jpg" width="416" height="312" /> 
+- 3.jpg
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/3.jpg" alt="3.jpg" width="416" height="312" /> 
+- 4.jpg
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/4.jpg" alt="4.jpg" width="416" height="312" />
+- 5.jpg
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/5.jpg" alt="5.jpg" width="416" height="312" />
 
 
 ###### Intermediate results
