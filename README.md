@@ -39,10 +39,8 @@ python image mosaic.py
     
 ###### Inputs
 
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/1.jpg" alt="1.jpg" width="234" height="416" />
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/2.jpg" alt="2.jpg" width="234" height="416" /> 
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/3.jpg" alt="3.jpg" width="234" height="416" />
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/4.jpg" alt="4.jpg" width="234" height="416" />
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/1.jpg" alt="1.jpg" width="234" height="416" />  <img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/2.jpg" alt="2.jpg" width="234" height="416" /> 
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/3.jpg" alt="3.jpg" width="234" height="416" />  <img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/4.jpg" alt="4.jpg" width="234" height="416" />
 <img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/5.jpg" alt="5.jpg" width="234" height="416" />
     
     
