@@ -46,15 +46,15 @@ python image mosaic.py
 
 ###### Intermediate results
 
-* All SIFT feature correspondence for img 1 and 2
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/1_2_sift_corr.jpg" width="468" height="416" />
+* All SIFT feature correspondence for img 2 and 3
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/2_3_sift_corr.jpg" width="468" height="416" />
 
 
-* Inliers from RANSAC for img 1 and 2
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/1_2_inliers.jpg" width="468" height="416" />
+* Inliers from RANSAC for img 2 and 3
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/2_3_inliers.jpg" width="468" height="416" />
 
-* Outliers from RANSAC for img 1 and 2
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/1_2outliers.jpg" width="468" height="416" />
+* Outliers from RANSAC for img 2 and 3
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/2_3outliers.jpg" width="468" height="416" />
        
 
 Go [here](./input/p2/results) for more intermediate results for all image pairs
@@ -87,15 +87,15 @@ Go [here](./input/p2/results) for more intermediate results for all image pairs
 
 ###### Intermediate results
 
-* All SIFT feature correspondence for img 1 and 2
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/results/1_2_sift_corr.jpg" width="832" height="312" />
+* All SIFT feature correspondence for img 2 and 3
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/results/2_3_sift_corr.jpg" width="832" height="312" />
 
 
-* Inliers from RANSAC for img 1 and 2
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/results/1_2_inliers.jpg" width="832" height="312" />
+* Inliers from RANSAC for img 2 and 3
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/results/2_3_inliers.jpg" width="832" height="312" />
 
-* Outliers from RANSAC for img 1 and 2
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/results/1_2outliers.jpg" width="832" height="312" />
+* Outliers from RANSAC for img 2 and 3
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p4/results/2_3outliers.jpg" width="832" height="312" />
        
 
 Go [here](./input/p4/results) for more intermediate results for all image pairs
