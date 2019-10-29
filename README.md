@@ -46,16 +46,23 @@ python image mosaic.py
 
 ###### Intermediate results
 
-* Left Image: All SIFT feature correspondence
-* Middle Image: Inliers from RANSAC
-* Right Image: Outliers from RANSAC
-
+* All SIFT feature correspondence for img 1 and 2
 <img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/1_2_sift_corr.jpg" width="468" height="416" />
+
+
+* Inliers from RANSAC for img 1 and 2
 <img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/1_2_inliers.jpg" width="468" height="416" />
+
+* Outliers from RANSAC for img 1 and 2
 <img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/1_2outliers.jpg" width="468" height="416" />
        
-    
-        
+
+Go [here](./input/p2/results) for more intermediate results for all image pairs
+
+###### Final Image Mosaic
+
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/results/panorama_4.jpg" width="602" height="482" />
+
         
 
 
