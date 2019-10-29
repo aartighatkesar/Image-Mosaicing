@@ -1,6 +1,6 @@
 # Image-Mosaicing
 
-####Description:
+#### Description:
 This project generates an image mosaic/ panorama from images. The following are the sequence of steps of the process
 ```
 0. Click pictures such that adjacent pictures have atleast 40% overlap. Order the pictures from left to right
@@ -20,7 +20,7 @@ This project generates an image mosaic/ panorama from images. The following are 
 - Numpy
 - SciPy (if you want to test results from Levenberg-Marquardt)
 
-#### Scripts
+## Scripts
 - [**image_mosiac.py**](./image_mosaic.py): **_MAIN_** file to run. Pass the correct parent folder and image list in the script. Result folder with all intermediate images and final panorama are generated in /<parent_folder>/results
 ```python
 python image mosaic.py
@@ -33,6 +33,19 @@ python image mosaic.py
 - [**estimate_homography.py**](./estimate_homography.py): Helper functions which help in bilinear interpolation and projecting images to a canvas using Homography matrix
 
 ## Results
+
+- [Input set 1 - click click](./input/p2)
+    - [Results for Input set 1 - more clicks](./input/p2/results)
+    
+Inputs
+
+![Image 1](./input/p2/1.jpg)
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/1.jpg" width="200" height="200" />
+    
+
+    
+
+
 
 
 
