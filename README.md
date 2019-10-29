@@ -37,13 +37,15 @@ python image mosaic.py
 - [Input set 1 - click click](./input/p2)
     - [Results for Input set 1 - more clicks](./input/p2/results)
     
-Inputs
+###### Inputs
 
-- 1.jpg
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/1.jpg" alt= "1.jpg" width="234" height="416" />
+|<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/1.jpg" alt= "1.jpg" width="234" height="416" /> | <img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/2.jpg" alt= "2.jpg" width="234" height="416" /> |
+|<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/3.jpg" alt= "3.jpg" width="234" height="416" /> | <img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/4.jpg" alt= "4.jpg" width="234" height="416" /> |
+|<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/5.jpg" alt= "5.jpg" width="234" height="416" /> |
     
-
     
+        
+        
 
 
 
