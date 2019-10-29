@@ -14,6 +14,8 @@ This project generates an image mosaic/ panorama from images. The following are 
 8. Project all images (using inverse warping) on to a blank canvas. Use bilinear interpolation
 ```
 
+Refer [here](./My%20Notes) for technical explanation
+
 #### Dependencies
 
 - OpenCV
