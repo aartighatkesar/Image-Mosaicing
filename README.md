@@ -39,8 +39,8 @@ python image mosaic.py
     
 Inputs
 
-![Image 1](./input/p2/1.jpg)
-<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/1.jpg" width="200" height="200" />
+- 1.jpg
+<img src="https://github.com/aartighatkesar/Image-Mosaicing/blob/master/input/p2/1.jpg" alt= "1.jpg" width="234" height="416" />
     
 
     
