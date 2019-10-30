@@ -20,7 +20,7 @@ Refer [here](./My%20Notes) for technical explanation
 
 - OpenCV
 - NumPy
-- SciPy (if you want to test results from Levenberg-Marquardt)
+- SciPy (if you want to compare results from Levenberg-Marquardt implementation in SciPy)
 
 ## Scripts
 - [**image_mosiac.py**](./image_mosaic.py): **_MAIN_** file to run. Pass the correct parent folder and image list in the script. Result folder with all intermediate images and final panorama are generated in /<parent_folder>/results
