@@ -19,7 +19,7 @@ Refer [here](./My%20Notes) for technical explanation
 #### Dependencies
 
 - OpenCV
-- Numpy
+- NumPy
 - SciPy (if you want to test results from Levenberg-Marquardt)
 
 ## Scripts
